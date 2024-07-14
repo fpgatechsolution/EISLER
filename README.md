@@ -1,7 +1,7 @@
 
 ![alt text](https://github.com/fpgatechsolution/PINE-S7/blob/main/img/logo.png)
 
-![alt text](https://github.com/fpgatechsolution/EISLER/blob/main/img/IMG_4.JPG)
+![alt text](https://github.com/fpgatechsolution/EISLER/blob/main/IMG/IMG_5.JPG)
 
 
 
