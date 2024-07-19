@@ -1,0 +1,28 @@
+{
+  "design": {
+    "design_info": {
+      "boundary_crc": "0x0",
+      "device": "xc7a35ticsg324-1L",
+      "name": "xadc",
+      "synth_flow_mode": "Hierarchical",
+      "tool_version": "2019.1"
+    },
+    "design_tree": {
+      "xadc_wiz_0": ""
+    },
+    "components": {
+      "xadc_wiz_0": {
+        "vlnv": "xilinx.com:ip:xadc_wiz:3.3",
+        "xci_name": "xadc_xadc_wiz_0_0",
+        "parameters": {
+          "ENABLE_RESET": {
+            "value": "false"
+          },
+          "INTERFACE_SELECTION": {
+            "value": "Enable_AXI"
+          }
+        }
+      }
+    }
+  }
+}
